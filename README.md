@@ -5,6 +5,10 @@
 
 ## Keyword Analysis
 
+- dataset
+
+`cafe.csv, jk.csv, orbi.csv`
+
 - 빈도 기반
 
 `keyword_analysis.ipynb`
@@ -23,6 +27,22 @@
 ## 토픽 모델링
 - LDA를 활용한 토픽모델링
 - 2019, 2020, 2021 긍/부정 데이터에 대해 각각 진행
+```python
+final_pos_2019.csv
+final_neg_2019.csv
+```
+```python
+final_pos_2020.csv
+final_neg_2020.csv
+```
+```python
+final_pos_2021.csv
+final_neg_2021.csv
+```
 - 산업공학 분야 중 크게 IT분야, 전통 산업공학 분야를 토픽으로 LDA 진행
 - 네트워크 클러스터링 sub clustering 결과를 참고하여 topic 수 조정해가면서 실험 진행
 - 토픽 별 주요 키워드 및 주요 문장을 추출하여 IT 분야, 전통 산업공학 분야에 해당하는 토픽을 선정
+
+`cluster_lda_2019.ipynb`
+`cluster_lda_2020.ipynb`
+`cluster_lda_2021.ipynb`
