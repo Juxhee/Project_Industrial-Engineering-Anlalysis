@@ -6,13 +6,18 @@
 ## Keyword Analysis
 
 - 빈도 기반
+- 
 `keyword_analysis.ipynb`
 
 </br>
 
 - text rank 기반
+- 
 `text-rank_keyword_analysis.ipynb`
 
+
+</br>
+</br>
 ## 토픽 모델링
 - LDA를 활용한 토픽모델링
 - 2019, 2020, 2021 긍/부정 데이터에 대해 각각 진행
