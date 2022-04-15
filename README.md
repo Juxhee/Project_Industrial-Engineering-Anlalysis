@@ -29,18 +29,21 @@
 ```python
 # 2019 긍정 데이터 
 final_pos_2019.csv
+
 # 2019 부정 데이터 
 final_neg_2019.csv
 ```
 ```python
 # 2020 긍정 데이터 
 final_pos_2020.csv
+
 # 2020 부정 데이터 
 final_neg_2020.csv
 ```
 ```python
 # 2021 긍정 데이터
 final_pos_2021.csv
+
 # 2021 부정 데이터 
 final_neg_2021.csv
 ```
